@@ -1,4 +1,4 @@
-Current 93;David Tibet,Douglas P.
+Current 93;David Tibet,Douglas P.,Michael Cashmore
 Death in June;Douglas P.,Tony Wakeford
 Sol Invictus;Tony Wakeford
 Howden/Wakeford;Tony Wakeford,Matt Howden
@@ -12,3 +12,4 @@ Solanaceae;Kim Larsen;Pythagumus Marshall,Chelsea Robb
 Arrowwood;Chelsea Robb;Novemthree
 Stórmir;Georg Börner
 Faun;
+Nature and Organisation;Michael Cashmore
