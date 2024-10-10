@@ -48,5 +48,3 @@ Here are some examples of musical movements, showing the relations between bands
 ## Contact
 
 If you want to include new data or have comments or suggestions, Feel free to create a pull request or contact me at <pablo.villanueva.domingo@gmail.com>.
-
-- Add more musical movements

@@ -1,4 +1,4 @@
-Current 93;David Tibet,Douglas P.,Michael Cashmore
+Current 93;David Tibet,Douglas P.,Michael Cashmore,Steven Stapleton,Rose McDowall 
 Death in June;Douglas P.,Tony Wakeford
 Sol Invictus;Tony Wakeford;Ian Read,Rose McDowall
 Howden/Wakeford;Tony Wakeford,Matt Howden
@@ -12,7 +12,7 @@ Solanaceae;Kim Larsen;Pythagumus Marshall,Chelsea Robb
 Arrowwood;Chelsea Robb;Novemthree
 Stórmir;Georg Börner
 Faun;;Sieben,In Gowan Ring
-Nature and Organisation;Michael Cashmore;David Tibet,Douglas P.,Rose McDowall
+Nature and Organisation;Michael Cashmore;David Tibet,Douglas P.,Rose McDowall,Steven Stapleton
 Blood Axis;Anabel Lee;In Gowan Ring
 Fire + Ice;Ian Read
 Forseti;Andreas Ritter;Sonne Hagal,Douglas P.,Bobin Eirth "B'ee",Kim Larsen,Ian Read,Uwe Nolte
