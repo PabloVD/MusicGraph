@@ -7,9 +7,11 @@
 
 ## Description
 
-Given a list of bands belonging to a musical movement, create a graph of memberships and collaborations using [Networkx](https://networkx.org/).
+Given a list of bands belonging to a musical movement, create a graph of memberships and collaborations using [Networkx](https://networkx.org/) and [ipysigma](https://github.com/medialab/ipysigma).
 
 Data is stored in folder `data` and are text files with several rows, wach of them with the following format: `band;members;collaborations`. `members` and `collaborations` are lists of musicians or bands separated by commas `,`. `collaborations` includes collaborations between bands and musicians from other projects, and also between bands in songs or split albums.
+
+Updated to create interactive graphs with [ipysigma](https://github.com/medialab/ipysigma).
 
 ---
 
@@ -19,31 +21,33 @@ Here are some examples of musical movements, showing the relations between bands
 
 - [Neofolk](https://en.wikipedia.org/wiki/Neofolk) bands
 
-![Neofolk bands](examples/neofolk_graph.png "Neofolk")
+![Neofolk bands](examples/neofolk.png "Neofolk")
 
 - [Valencian](https://en.wikipedia.org/wiki/Valencian_Community) musical scene
 
-![Valencian musical scene](examples/valencian_graph.png "Valencian")
+![Valencian musical scene](examples/valencian.png "Valencian")
 
 - [Basque Radical Rock](https://en.wikipedia.org/wiki/Basque_Radical_Rock)
 
-![Basque Radical Rock](examples/rock_radical_vasco_graph.png "Basque Radical Rock")
+![Basque Radical Rock](examples/rock_radical_vasco.png "Basque Radical Rock")
 
 - [Norwegian Black Metal](https://en.wikipedia.org/wiki/Early_Norwegian_black_metal_scene)
 
-![Norwegian Black Metal](examples/norwegian_black_metal_graph.png "Norwegian Black Metal")
+![Norwegian Black Metal](examples/norwegian_black_metal.png "Norwegian Black Metal")
 
 - Collaboration network of [Extremoduro](https://en.wikipedia.org/wiki/Extremoduro) and related bands
 
-![Extremoduro](examples/extremoduro_graph.png "Extremoduro")
+![Extremoduro](examples/extremoduro.png "Extremoduro")
 
 ---
 
 ## To do
 
-- Improve graph visualization, maybe use Graphviz
-- Reorganize as a class
-- Include further musical scenes
+- [x] Improve graph visualization, using `ipysigma`
+- [ ] Reorganize as a class
+- [ ] Include further musical scenes
+- [ ] Write input data with json files
+- [ ] Write web scrapping tool to parse data from Rate Your Music and/or Wikipedia.
 
 ## Contact
 
