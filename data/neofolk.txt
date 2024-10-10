@@ -1,6 +1,6 @@
 Current 93;David Tibet,Douglas P.,Michael Cashmore
 Death in June;Douglas P.,Tony Wakeford
-Sol Invictus;Tony Wakeford;Ian Read
+Sol Invictus;Tony Wakeford;Ian Read,Rose McDowall
 Howden/Wakeford;Tony Wakeford,Matt Howden
 Sieben;Matt Howden;Faun
 In Gowan Ring;Bobin Eirth "B'ee";Georg Börner,Faun,Emma Skemp,Blood Axis
@@ -12,6 +12,11 @@ Solanaceae;Kim Larsen;Pythagumus Marshall,Chelsea Robb
 Arrowwood;Chelsea Robb;Novemthree
 Stórmir;Georg Börner
 Faun;;Sieben,In Gowan Ring
-Nature and Organisation;Michael Cashmore
+Nature and Organisation;Michael Cashmore;David Tibet,Douglas P.,Rose McDowall
 Blood Axis;Anabel Lee;In Gowan Ring
 Fire + Ice;Ian Read
+Forseti;Andreas Ritter;Sonne Hagal,Douglas P.,Bobin Eirth "B'ee",Kim Larsen,Ian Read,Uwe Nolte
+Sonne Hagal;;Andreas Ritter,Kim Larsen,Ian Read,Matt Howden
+Orplid;Uwe Nolte
+Backworld;Joseph Budenholzer;David Tibet,Rose McDowall
+Sorrow;Rose McDowall;Joseph Budenholzer
