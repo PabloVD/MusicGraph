@@ -1,7 +1,6 @@
 # XarxaMusical
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Alt text](https://img.shields.io/pypi/pyversions/python-binance.svg)
 
 ---
 
@@ -49,7 +48,7 @@ Here are some examples of musical movements, showing the relations between bands
 
 - [x] Improve graph visualization, using `ipysigma`
 - [ ] Reorganize as a class
-- [ ] Create web application
+- [ ] Create web application or IPyWidget
 - [ ] Write web scrapping tool to parse data from Rate Your Music and/or Wikipedia.
 
 ## Contact
