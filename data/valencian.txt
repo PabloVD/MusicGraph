@@ -1,10 +1,10 @@
 Orxata Sound System;Biano,Jordi Palau,Jaume Guerra,Panxo,Neus Berenguer;Pep Botifarra
 Palmer;Aina Palmer,Jordi Palau;Aina Koda
-Pep Botifarra;;Titana
+Pep Botifarra;;Titana,Xavi Sarrià
 Obrint Pas;Xavi Sarrià,Jaume Guerra,Marcos Úbeda;Pep Botifarra,Miquel Gil
 Mafalda
-ZOO;Panxo,Arnau Giménez,Jaume Guerra,Marcos Úbeda,Toni Fort;Toni Mejías,Mafalda
-La Gossa Sorda;Josep Nadal,Arnau Giménez
+ZOO;Panxo,Arnau Giménez,Jaume Guerra,Marcos Úbeda,Toni Fort;Toni Mejías,Mafalda,Marala
+La Gossa Sorda;Josep Nadal,Arnau Giménez,Àlex Seguí
 Marala;Sandra Monfort
 Xaluq;Sandra Monfort,Toni Fort
 Arrap;Josep Olmos
@@ -17,10 +17,14 @@ Vertigen;Josep Nadal,Joan Palomares
 Maluks;;Jordi Palau
 Émbolo;Biano;Jordi Palau,Neus Berenguer
 Radio Macramé;Jordi Palau,Panxo,Josep Olmos
-Pep de la Tona;Josep Nadal
+Pep de la Tona;Josep Nadal,Héctor Peropadre
 Rawpublik;Roy Carlovich,Panxo,Toni Fort,Toni Mejías
 Los chikos del Maíz;Nega,Toni Mejías;Roy Carlovich,Panxo
 Cactus;Samantha;Pep Botifarra
 El Diluvi
 La Fúmiga;;Pupil·les,ZOO,El Diluvi,Jonatan Penalba,Samantha
 Smoking Souls;;Mafalda,ZOO
+Aspencat;Héctor Peropadre;Nega,Àlex Seguí,Xavi Sarrià,Feliu Ventura,Borja Penalba
+Mireia Vives i Borja Penalba;Mireia Vives,Borja Penalba
+Rapsodes;Mireia Vives
+Xavi Sarrià;Héctor Peropadre

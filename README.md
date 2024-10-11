@@ -17,7 +17,11 @@ Updated to create interactive graphs with [ipysigma](https://github.com/medialab
 
 ## Examples
 
-Here are some examples of musical movements, showing the relations between bands. Most of info has been extracted from [Wikipedia](https://en.wikipedia.org), [Discogs](https://www.discogs.com/), [Rate Your Music](https://rateyourmusic.com/) and other sources.
+Here are some examples of musical movements, showing the relations between bands. Most of info has been extracted from [Wikipedia](https://en.wikipedia.org), [Discogs](https://www.discogs.com/), [Rate Your Music](https://rateyourmusic.com/) and other sources. In the images below, purple nodes correspond to bands/artits while orange nodes to musicians, orange lines indicate member of band and purple lines indicate collaborations.
+
+- [Jazz](https://en.wikipedia.org/wiki/Jazz) scene
+
+![Jazz](examples/jazz.png "Jazz")
 
 - [Neofolk](https://en.wikipedia.org/wiki/Neofolk) bands
 
@@ -45,8 +49,7 @@ Here are some examples of musical movements, showing the relations between bands
 
 - [x] Improve graph visualization, using `ipysigma`
 - [ ] Reorganize as a class
-- [ ] Include further musical scenes
-- [ ] Write input data with json files
+- [ ] Create web application
 - [ ] Write web scrapping tool to parse data from Rate Your Music and/or Wikipedia.
 
 ## Contact

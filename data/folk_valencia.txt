@@ -2,7 +2,7 @@ L'ham de foc;Efrén López,Mara Aranda,Diego López,Christos Barbas,Eduard Navar
 Al Andaluz Project;Efrén López,Mara Aranda,Diego López,Jota Martínez
 Aman Aman;Efrén López,Mara Aranda,Christos Barbas,Diego López
 Cendraires;Mara Aranda,Joansa Maravilla,Néstor Mont,Efrén López
-Aljub;Joansa Maravilla,Rafel Arnal
+Aljub;Joansa Maravilla,Rafel Arnal;Néstor Mont
 Urbàlia Rurana;Carles Gil,Toni Torregrosa,Ximo Caffarena;Joansa Maravilla,Eduard Navarro
 Cànem;Carles Gil,Toni Torregrosa
 Mara Aranda & Solatge;Mara Aranda,Eduard Navarro,Jota Martínez,Abel Garcia
@@ -15,3 +15,4 @@ Miquel Gil;;Eduard Navarro,Efrén López
 Krama;Abel Garcia,Eduard Navarro,Rafel Arnal
 Carraixet;Rafel Arnal
 Alimara;Josep Aparicio "Apa"
+Pep Botifarra;;Titana,Néstor Mont
