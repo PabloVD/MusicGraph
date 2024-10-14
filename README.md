@@ -6,7 +6,9 @@
 
 ## Description
 
-Given a list of bands belonging to a musical movement, create a graph of memberships and collaborations using [Networkx](https://networkx.org/) and [ipysigma](https://github.com/medialab/ipysigma).
+Given a list of bands belonging to a musical movement, create a graph of memberships and collaborations using [Networkx](https://networkx.org/) and render interactively with [ipysigma](https://github.com/medialab/ipysigma).
+
+**See here a web application with examples at [Music Graph](https://pablovd.github.io/musicgraph.html).**
 
 Data is stored in folder `data` and are text files with several rows, wach of them with the following format: `band;members;collaborations`. `members` and `collaborations` are lists of musicians or bands separated by commas `,`. `collaborations` includes collaborations between bands and musicians from other projects, and also between bands in songs or split albums.
 
@@ -47,8 +49,7 @@ Here are some examples of musical movements, showing the relations between bands
 ## To do
 
 - [x] Improve graph visualization, using `ipysigma`
-- [ ] Reorganize as a class
-- [ ] Create web application or IPyWidget
+- [x] Create web application or IPyWidget
 - [ ] Write web scrapping tool to parse data from Rate Your Music and/or Wikipedia.
 
 ## Contact
