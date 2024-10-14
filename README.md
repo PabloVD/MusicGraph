@@ -2,27 +2,19 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
----
-
 ## Description
 
 Given a list of bands belonging to a musical movement, create a graph of memberships and collaborations using [Networkx](https://networkx.org/) and render interactively with [ipysigma](https://github.com/medialab/ipysigma).
 
-Data is stored in folder `data` and are text files with several rows, wach of them with the following format: `band;members;collaborations`. `members` and `collaborations` are lists of musicians or bands separated by commas `,`. `collaborations` includes collaborations between bands and musicians from other projects, and also between bands in songs or split albums.
-
----
+Data is stored in folder `data` and are text files with several rows, wach of them with the following format: `band;members;collaborations`. `members` and `collaborations` are lists of musicians or bands separated by commas `,`. `collaborations` includes collaborations between bands and musicians from other projects, and also between bands in songs or split albums. Most of info has been extracted from [Wikipedia](https://en.wikipedia.org), [Discogs](https://www.discogs.com/), [Rate Your Music](https://rateyourmusic.com/) and other sources.
 
 ## Examples
 
-**See here a web application with examples [here](https://pablovd.github.io/musicgraph.html).**
-
-There are some examples of musical movements, showing the relations between bands. Most of info has been extracted from [Wikipedia](https://en.wikipedia.org), [Discogs](https://www.discogs.com/), [Rate Your Music](https://rateyourmusic.com/) and other sources.
+**See a web application with examples [here](https://pablovd.github.io/musicgraph.html).**
 
 Example graph, showing the [Jazz](https://en.wikipedia.org/wiki/Jazz) scene
 
 ![Jazz](examples/jazz.png "Jazz")
-
----
 
 ## To do
 
