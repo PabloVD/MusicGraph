@@ -19,7 +19,8 @@ Example graph, showing the [Jazz](https://en.wikipedia.org/wiki/Jazz) scene
 ## To do
 
 - [x] Improve graph visualization, using `ipysigma`
-- [x] Create web application or IPyWidget
+- [x] Create web application
+- [ ] Fix visualization of webpage in mobile phone
 - [ ] Write web scrapping tool to parse data from Rate Your Music and/or Wikipedia.
 
 ## Contact
