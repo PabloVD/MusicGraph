@@ -1,0 +1,14 @@
+Iron Maiden;Bruce Dickinson,Paul Di'Anno,Clive Burr,Janick Gers
+Gogmagog;Paul Di'Anno,Clive Burr,Janick Gers,Pete Willis,Neil Murray
+Judas Priest;Tim "Ripper" Owens
+Iced Earth;Tim "Ripper" Owens
+Samson;Bruce Dickinson,Clive Burr
+Def Leppard;Pete Willis,Vivian Campbell
+Dio;Ronnie James Dio,Vivian Campbell,Vinny Appice,Jimmy Bain
+Whitesnake;David Coverdale,Vivian Campbell,Cozy Powell,Neil Murray,Jon Lord
+Thin Lizzy;Vivian Campbell
+Black Sabbath;Ozzy Osbourne,Ronnie James Dio,Vinny Appice,Ian Gillan,Glenn Hughes,Cozy Powell,Neil Murray
+Ozzy Osbourne;Randy Rhoads
+Deep Purple;Ian Gillan,Ritchie Blackmore,David Coverdale,Glenn Hughes,Jon Lord
+Rainbow;Ritchie Blackmore,Ronnie James Dio,Jimmy Bain,Cozy Powell
+Quiet Riot;Randy Rhoads

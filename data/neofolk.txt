@@ -4,7 +4,7 @@ Sol Invictus;Tony Wakeford,Ian Read,Matt Howden;Rose McDowall
 Howden/Wakeford;Tony Wakeford,Matt Howden
 Sieben;Matt Howden;Faun
 In Gowan Ring;Bobin Eirth "B'ee";Georg Börner,Faun,Emma Skemp,Blood Axis,Maja Elliott
-Birch Book;Bobin Eirth "B'ee"
+Birch Book;Bobin Eirth "B'ee";Annabel Lee
 Sangre de Muerdago;Pablo C. Ursusson,Georg Börner,Emma Skemp;Novemthree,Judasz & Nahimana
 Novemthree;Pythagumus Marshall;Arrowwood,Sangre de Muerdago
 :Of The Wand & The Moon:;Kim Larsen;Andreas Ritter
@@ -14,7 +14,7 @@ Stórmir;Georg Börner
 Faun;;Sieben,In Gowan Ring
 Nature and Organisation;Michael Cashmore;David Tibet,Douglas P.,Rose McDowall,Steven Stapleton
 Blood Axis;Annabel Lee;In Gowan Ring
-Fire + Ice;Ian Read,Michael Cashmore,Annabel Lee,Douglas P.,Joseph Budenholzer
+Fire + Ice;Ian Read,Michael Cashmore,Annabel Lee,Douglas P.,Joseph Budenholzer;Bobin Eirth "B'ee"
 Forseti;Andreas Ritter;Sonne Hagal,Douglas P.,Bobin Eirth "B'ee",Kim Larsen,Ian Read,Uwe Nolte
 Sonne Hagal;;Andreas Ritter,Kim Larsen,Ian Read,Matt Howden
 Orplid;Uwe Nolte
