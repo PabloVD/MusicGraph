@@ -78,7 +78,8 @@ Titana
 Verdcel
 Vicent Torrent;;Ovidi Montllor
 Xavier de Bétera;Nèstor Mont;Eliseo Parra
-Tradifusió;;Xavier de Bétera,Eliseo Parra,Sandra Monfort,Pep Botifarra
+Tradifusió;Pau Barberà,Abraham Lojo;Xavier de Bétera,Eliseo Parra,Sandra Monfort,Pep Botifarra
 La Trocamba Matanusca;;Pep Botifarra,Toni Fort,El Diluvi
 El Trib Reial;Hilari Alonso,Pau Puig;Pep Botifarra
 Solk;Pau Puig
+Sons d'Embat;Pau Barberà,Abraham Lojo,Toni Fort
