@@ -10,7 +10,7 @@ Data is stored in folder `data` and are text files with several rows, wach of th
 
 ## Examples
 
-**See a web application with examples [here](https://pablovd.github.io/musicgraph.html).**
+**See a web application with examples [here](https://pablovd.github.io/misc/musicgraph.html).**
 
 Example graph, showing the [Jazz](https://en.wikipedia.org/wiki/Jazz) scene
 
