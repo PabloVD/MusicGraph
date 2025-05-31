@@ -14,7 +14,7 @@ Data is stored in folder `data` and are text files with several rows, wach of th
 
 Example graph, showing the [Jazz](https://en.wikipedia.org/wiki/Jazz) scene
 
-![Jazz](examples/jazz.png "Jazz")
+![Jazz](images/jazz.png "Jazz")
 
 ## To do
 
