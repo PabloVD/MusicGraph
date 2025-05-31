@@ -1,7 +1,7 @@
 import glob
 from ipysigma import Sigma
 
-from musicgraph import create_graph, load_data
+from bandgraph import create_graph, load_data
 
 datapath = "../data/"
 
